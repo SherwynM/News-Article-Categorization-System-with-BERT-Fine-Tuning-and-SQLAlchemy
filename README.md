@@ -77,5 +77,4 @@ The fine-tuning process leverages Hugging Face's DistilBERT model, a lighter ver
 - **Integrating New Models**: Experiment with other transformer models like RoBERTa or GPT for further improvements.
 - **Real-Time Inference**: Deploy the model as an API to provide real-time news categorization.
 
-## **License**
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
